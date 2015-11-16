@@ -1,0 +1,19 @@
+body {
+    margin-top: 10px;
+    margin-left: 50px;
+}
+
+form label {
+    
+    display: inline-block;
+    width: 235px;
+    font-family: arial;
+    font-size: 13.5px;
+    font-weight: bold;
+    text-align: left;
+}
+
+h2, p {
+    font-family: arial;
+}
+
